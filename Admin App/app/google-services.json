@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "783364815476",
+    "firebase_url": "https://bookstore-1ac6f.firebaseio.com",
+    "project_id": "bookstore-1ac6f",
+    "storage_bucket": "bookstore-1ac6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783364815476:android:3de9a691abf32bfd1bef21",
+        "android_client_info": {
+          "package_name": "com.beecoder.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783364815476-cnntti40rgq87u9kdb1jcl4253ek7cl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beecoder.bookstore",
+            "certificate_hash": "e60b9bd4205ad05f16e416d9789eb69105ec5998"
+          }
+        },
+        {
+          "client_id": "783364815476-s9h1b3c3n0risasq572bk79hg5i1mp0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beecoder.bookstore",
+            "certificate_hash": "594fac1bf5de3b3c519756b6972faa81e8e7d832"
+          }
+        },
+        {
+          "client_id": "783364815476-lfbvovtp0huqtvglttlia763v7pb0ss1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfluiGl1qJWPVH_M3GMQWxDyJTI0APdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783364815476-lfbvovtp0huqtvglttlia763v7pb0ss1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783364815476:android:0e97dc93818cc4f91bef21",
+        "android_client_info": {
+          "package_name": "com.polinomyacademy.bookstore_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783364815476-lfbvovtp0huqtvglttlia763v7pb0ss1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfluiGl1qJWPVH_M3GMQWxDyJTI0APdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783364815476-lfbvovtp0huqtvglttlia763v7pb0ss1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
